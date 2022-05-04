@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Scifi.Tools
+namespace Tools
 {
     /// <summary>
     /// This pool uses deactivated objects for pooling. To release pooled object just deactivate it.
